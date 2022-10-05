@@ -1,0 +1,5 @@
+Except some details,
+the images and projects are placeholders
+finishing has yet to be done
+the main purpose of this project was to get familiar with the working
+of tailwind css..
